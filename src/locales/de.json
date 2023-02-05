@@ -8,5 +8,8 @@
   "register": {
     "accept": "Ich akzeptiere  {0}",
     "tos": "die Nutzungsbedingungen von Music"
+  },
+  "manage": {
+    "my_songs": "Meine Lieder"
   }
 }
